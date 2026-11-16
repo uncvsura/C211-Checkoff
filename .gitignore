@@ -1,0 +1,7 @@
+build/
+primeGen
+pairFind
+comet
+bitSieve
+test/
+.DS_Store
